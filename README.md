@@ -34,6 +34,6 @@ Used the USA housing prices dataset from Kaggle to predict housing price. The da
 
 Objevtives: 
 
-Analyze a Pandas Dataframe
-Create Seaborn plots for Exploratory Data Analysis
-Train a Linear Regression Model using Scikit-Learn to predict housing price
+- Analyze a Pandas Dataframe
+- Create Seaborn plots for Exploratory Data Analysis
+- Train a Linear Regression Model using Scikit-Learn to predict housing price
