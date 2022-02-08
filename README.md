@@ -1,5 +1,5 @@
 # GCP-Machine-Learning
-My lab sessions/ practice for Machine learning on Google Cloud Platform on Coursera
+Lab sessions & practice for Machine Learning course on Google Cloud Platform on Coursera
 
 
 # 1. Flight Data
